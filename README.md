@@ -139,4 +139,4 @@
 
 ##
 
-<p align="center"><img src="https://thumbs.gfycat.com/BountifulDizzyGrison-mobile.mp4" alt="Synthwave" height="300" width="500"></p>
+<p align="center"><video src="https://thumbs.gfycat.com/BountifulDizzyGrison-mobile.mp4" alt="Synthwave" height="300" width="500"></p>
