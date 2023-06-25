@@ -139,4 +139,4 @@
 
 ##
 
-<p align="center"><iframe src="https://giphy.com/embed/OSWRJKmwUEOD6" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/excited-dance-party-OSWRJKmwUEOD6">via GIPHY</a></p></p>
+<p align="center"><img src="https://thumbs.gfycat.com/GoodnaturedFondGaur-size_restricted.gif" alt="Synthwave" height="300" width="500"></p>
