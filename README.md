@@ -9,8 +9,6 @@
 <h2 align="center">About me</h2>
 
 ```Java
-namespace PLNK
-{
     public class NhatKhangPLNK
     {
         public static void Main(string[] args)
@@ -24,7 +22,6 @@ namespace PLNK
             string FamousQuotes = "Hãy Đi Theo Con Đường Bạn Chọn , Vì Nó Luôn Là Là Con Đường Hạnh Phúc!";
         }
     }
-}
 ```
 
 ## <p align="center">You can reach me at 🌹</p>
