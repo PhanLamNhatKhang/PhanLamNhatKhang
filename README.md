@@ -35,7 +35,7 @@
     <img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alt="Github" height="30" width="30">
   </a>
   
-  <a href="https://vutuananh0949.github.io/My-Information/?fbclid=IwAR3XEFexZC70dmZMsjQG2kNqN-fZCXCIoq0fZ0V-Tsv5ojTLC8dZmrFDuGY">
+  <a href="https://kanephan1909.github.io/profile-card-yourself/">
     <img src="https://www.vectorlogo.zone/logos/devto/devto-icon.svg" alt="DevTo" height="30" width="30">
   </a>
 	
