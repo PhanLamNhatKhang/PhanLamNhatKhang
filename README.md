@@ -19,7 +19,7 @@
             string Address = "Kiên Giang, Việt Nam";
             string University = "Trường Đại Học Nguyễn Tất Thành - NTTU";
             string Skills = "C++, Python, Java, HTML, CSS, JavaScript, MYSQL";
-            string FamousQuotes = "Hãy Đi Theo Con Đường Bạn Chọn , Vì Nó Luôn Là Là Con Đường Hạnh Phúc!";
+            string FamousQuotes = "Hãy Đi Theo Con Đường Bạn Chọn , Vì Nó Luôn Là Là Con Đường Có Được Hạnh Phúc!";
         }
     }
 ```
