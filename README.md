@@ -85,8 +85,8 @@
       </td>
 	<td width="20%" align="center">
 		<a href="https://dart.dev/guides">
-        <span>𝗣𝘆𝘁𝗵𝗼𝗻</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/python.svg">
+        <span>JavaScript</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/javascript.svg">
 	      </a>
       </td>
     </tr>
