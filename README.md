@@ -19,14 +19,18 @@
             string Age = "2003";
             string Gender = "Male";
             string Address = "Kiên Giang, Việt Nam";
-            string University = "Trường Đại Học Nguyễn Tất Thành - NTTU";
-            string Skills = "C++, Python, Java, HTML, CSS, JavaScript, MYSQL";
-            string FamousQuotes = "Hãy Đi Theo Con Đường Bạn Chọn , Vì Nó Luôn Là Là Con Đường Có Được Hạnh Phúc!";
+            string University = "University Nguyen Tat Thanh - NTTU";
+            string Skills = "C#, Python, Java, HTML, CSS, JavaScript, MYSQL, ReatJS, NodeJS";
+            string FamousQuotes = "Follow the path you choose, because it is always the path to happiness!";
         }
     }
 ```
 
 ## <p align="center">You can reach me at 🌹</p>
+
+<p align="center">
+  <img src="https://github.com/thanhtin4401/thanhtin4401/assets/85281544/a65ececb-7042-4a69-b9a6-71381c48b003" alt="giphy" />
+</p>
 
 <p align="center">
   <a href="https://www.facebook.com/kanephan1909">
