@@ -130,12 +130,15 @@
 
 ## <p align="center">Just a snake eating my contributions 🐍</p>
 
-<p align='center'>
-<img src="https://github.com/ngoctienTNT/ngoctienTNT/blob/output/github-contribution-grid-snake.svg">
-</p>
-
-<hr>
+<br/><br/><br/>
+<hr/>
 <br>
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+  <br/><br/><br/>
+</div>
 
 ##
 
