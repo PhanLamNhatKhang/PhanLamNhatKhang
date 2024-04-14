@@ -124,11 +124,6 @@
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ngoctienTNT&langs_count=10&theme=tokyonight&layout=compact" alt="ngoctienTNT :: Top Langs" /></p>
 
-## <p align="center">Github Contributions 📈</p>
-
-
-
-## <p align="center">Just a snake eating my contributions 🐍</p>
 
 <br/><br/><br/>
 <hr/>
