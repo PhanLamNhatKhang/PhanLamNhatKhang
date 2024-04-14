@@ -3,11 +3,11 @@
 	<img src="https://avatars.githubusercontent.com/u/117971055?s=400&u=836888c86775f3a48fdc19472dac67fef74cc93a&v=4" width = "200" alt="VTA">
 	</a>
 </p>
-//
+
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Kane+Phan!;" />
 </h1>
-//
+
 <h2 align="center">About me</h2>
 
 ```Java
@@ -115,18 +115,6 @@
   </tbody>
 </table>
 
-
-## <p align="center">GitHub Profile Trophy 🏆</p>
-
-<p align='center'>
-<img src="https://github-profile-trophy.vercel.app/?username=ngoctienTNT&theme=tokyonight&row=2&column=4">
-</p>
-
-## <p align="center">Top langs :tongue:</p>
-
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ngoctienTNT&langs_count=10&theme=tokyonight&layout=compact" alt="ngoctienTNT :: Top Langs" /></p>
-
-
 <br/><br/><br/>
 <hr/>
 <br>
@@ -140,3 +128,20 @@
 ##
 
 <p align="center"><img src="https://thumbs.gfycat.com/GoodnaturedFondGaur-size_restricted.gif" alt="Synthwave" height="300" width="500"></p>
+
+<h2 align="center">🔥 GitHub Stats 🔥</h2>
+<!-- https://github.com/anuraghazra/github-readme-stats -->
+<br>
+<div align=center>
+  <a href="#" title="kanephan1909">
+    <img width="315" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kanephan1909&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
+  </a>
+  <a href="#" title="kanephan1909">
+    <img align="right" width="434" src="https://github-readme-stats.vercel.app/api?username=thanhtin4401&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+  </a>
+</div>
+
+
+<h3 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;+Shoot+me+a+message+on+Linkedin!;I'm+always+down+to+collab+:)">
+</h3>
