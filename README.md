@@ -1,11 +1,13 @@
-<p align="center">Phan Lâm Nhật Khang</p>
-
 <p align="center">
 	<a href="https://github.com/PhanLamNhatKhang">
 	<img src="https://avatars.githubusercontent.com/u/117971055?s=400&u=836888c86775f3a48fdc19472dac67fef74cc93a&v=4" width = "200" alt="VTA">
 	</a>
 </p>
-
+//
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Kane+Phan!;" />
+</h1>
+//
 <h2 align="center">About me</h2>
 
 ```Java
