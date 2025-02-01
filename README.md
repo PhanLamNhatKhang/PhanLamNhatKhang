@@ -72,9 +72,9 @@
   <tbody>
     <tr valign="top">
       <td width="20%" align="center">
-	<a href="https://devdocs.io/cpp/">
+	<a href="https://devdocs.io/python/">
 		<span>Python</span><br><br><br>
-		<img height="64px" src="https://cdn.worldvectorlogo.com/logos/python.svg">
+		<img height="64px" src="https://cdn.worldvectorlogo.com/logos/python-5.svg">
 	 </a>
       </td>
       <td width="20%" align="center">
