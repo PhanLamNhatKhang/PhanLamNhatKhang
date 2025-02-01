@@ -73,8 +73,8 @@
     <tr valign="top">
       <td width="20%" align="center">
 	<a href="https://devdocs.io/cpp/">
-		<span>𝗖++</span><br><br><br>
-		<img height="64px" src="https://cdn.worldvectorlogo.com/logos/c.svg">
+		<span>Python</span><br><br><br>
+		<img height="64px" src="https://cdn.worldvectorlogo.com/logos/python.svg">
 	 </a>
       </td>
       <td width="20%" align="center">
