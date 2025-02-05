@@ -72,6 +72,12 @@
   <tbody>
     <tr valign="top">
       <td width="20%" align="center">
+	<a href="https://docs.oracle.com/java/">
+		<span>𝗝𝗮𝘃𝗮</span><br><br><br>
+		<img height="64px" src="https://cdn.svgporn.com/logos/java.svg">
+	 </a>
+      </td>    
+      <td width="20%" align="center">
 	<a href="https://devdocs.io/python/">
 		<span>Python</span><br><br><br>
 		<img height="64px" src="https://cdn.worldvectorlogo.com/logos/python-5.svg">
@@ -81,12 +87,6 @@
 	 <a href="https://docs.microsoft.com/dotnet/csharp/">
 		<span>𝗖#</span><br><br><br>
 		<img height="64px" src="https://cdn.svgporn.com/logos/c-sharp.svg">
-	 </a>
-      </td>
-      <td width="20%" align="center">
-	<a href="https://docs.oracle.com/java/">
-		<span>𝗝𝗮𝘃𝗮</span><br><br><br>
-		<img height="64px" src="https://cdn.svgporn.com/logos/java.svg">
 	 </a>
       </td>
 	<td width="20%" align="center">
